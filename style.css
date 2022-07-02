@@ -27,3 +27,36 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+.row-style2 {
+    padding-top: 200px;
+    color: white;
+}
+
+.row-style2 h1 {
+    font-size: 70px;
+}
+
+.row-style2 p {
+    font-size: 20px;
+    padding-top: 40px;
+    
+}
+
+.row-style2 button {
+    margin-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 700;
+    
+}
+
+.row-style2 a {
+    color: white;
+}
+
+.row-style2 h5 {
+    padding-top: 100px;
+    margin-top: 90px;
+    color: white;
+}
