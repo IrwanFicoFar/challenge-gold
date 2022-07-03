@@ -2,7 +2,7 @@
     background-image: url('assets/main-bg.jpg');
     height: 100vh;
     background-size: cover;
-    border-radius: 0px;
+   
     text-align: center;
   }
 
@@ -59,4 +59,20 @@
     padding-top: 100px;
     margin-top: 90px;
     color: white;
+}
+    
+
+.bgmain2 {
+    background-image: url('assets/the-games-bg.jpg');
+    height: 100vh;
+    background-size: cover;
+    
+  }
+
+  
+@media (max-width: 720px) { 
+    .bgmain {
+      padding-button: 1000px;
+      height: 1200px;
+    }
 }
